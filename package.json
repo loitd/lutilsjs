@@ -1,0 +1,26 @@
+{
+  "name": "lutilsjs",
+  "version": "1.0.1",
+  "description": "A Loitd (youtube.com/tranducloi) Utilities Library for JavaScripts",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "pub": "git add * && git commit -am 'x' && git push origin master & npm publish"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/loitd/lutilsjs.git"
+  },
+  "keywords": [
+    "js",
+    "javascript",
+    "utilities",
+    "loitd"
+  ],
+  "author": "Tran Duc Loi (youtube.com/tranducloi)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/loitd/lutilsjs/issues"
+  },
+  "homepage": "https://github.com/loitd/lutilsjs#readme"
+}
