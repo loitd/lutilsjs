@@ -7,6 +7,7 @@ Web: [https://inneka.com](https://inneka.com/)
 or  
 `yarn add lutilsjs`  
 ## Usage
+View more [here](https://github.com/loitd/lutilsjs/blob/master/test.js)  
 ### Import
 `var lutils = require('lutilsjs');`  
 or  
